@@ -1,7 +1,6 @@
 # Bookflix
 
-Group 2 – Una Cristiano Machado University
-
+Graduation project – Centro Universitário UNA 2023
 ## About the Project
 
 Bookflix (a fictional name) is a mobile application designed to support users in developing the habit of reading literary works.
